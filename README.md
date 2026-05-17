@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Suman Gupta 👑</h2>
+<p align="center">
+  <em>Class 11th Student | Curious Learner | Future Coder</em>
+</p>
 
-<!--
-**coder-suman-x7/coder-suman-x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Basics of coding & web development
+- 🎯 2026 Goal: Build my first website
+- ⚡ Fun fact: I love chai and learning new things
+- 📫 Reach me:coming 🔜 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=coder-suman-x7&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
